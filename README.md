@@ -9,3 +9,4 @@ By using some Machine learning techniques we are able to predict the Diabetes
 By using the statistical data about how certain aspects like BMI, Glucose level, Insulin level, age etc. impact if an individual is prone to diabetes or not, the project will be able to tell the user if the person has diabetes or not by entering those values. So in a way the project will help in monitoring the likelihood of someone developing diabetes. The project can be extended to include other diseases prediction which I will incorporate later down the road. 
 
 # [Heroku LiveDemo](https://diabetespredictionsml.herokuapp.com/)
+# [Azure LiveDemo](https://diabetespredicition.azurewebsites.net/)
